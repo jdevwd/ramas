@@ -1,4 +1,4 @@
-package app.utilidades.main;
+package app.main.utilidades;
 
 public class Utilidades {
 
